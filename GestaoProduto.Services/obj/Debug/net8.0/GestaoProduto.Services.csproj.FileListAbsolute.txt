@@ -1,0 +1,15 @@
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\bin\Debug\net8.0\GestaoProduto.Services.deps.json
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\bin\Debug\net8.0\GestaoProduto.Services.dll
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\bin\Debug\net8.0\GestaoProduto.Services.pdb
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\bin\Debug\net8.0\GestaoProduto.Domain.dll
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\bin\Debug\net8.0\GestaoProduto.Domain.pdb
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\GestaoProduto.Services.csproj.AssemblyReference.cache
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\GestaoProduto.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\GestaoProduto.Services.AssemblyInfoInputs.cache
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\GestaoProduto.Services.AssemblyInfo.cs
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\GestaoProduto.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\GestaoPr.BD8A33AF.Up2Date
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\GestaoProduto.Services.dll
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\refint\GestaoProduto.Services.dll
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\GestaoProduto.Services.pdb
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Services\obj\Debug\net8.0\ref\GestaoProduto.Services.dll

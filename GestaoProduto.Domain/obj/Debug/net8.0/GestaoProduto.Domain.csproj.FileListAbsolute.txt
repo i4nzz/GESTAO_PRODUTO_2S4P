@@ -1,0 +1,11 @@
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\bin\Debug\net8.0\GestaoProduto.Domain.deps.json
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\bin\Debug\net8.0\GestaoProduto.Domain.dll
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\bin\Debug\net8.0\GestaoProduto.Domain.pdb
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\obj\Debug\net8.0\GestaoProduto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\obj\Debug\net8.0\GestaoProduto.Domain.AssemblyInfoInputs.cache
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\obj\Debug\net8.0\GestaoProduto.Domain.AssemblyInfo.cs
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\obj\Debug\net8.0\GestaoProduto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\obj\Debug\net8.0\GestaoProduto.Domain.dll
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\obj\Debug\net8.0\refint\GestaoProduto.Domain.dll
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\obj\Debug\net8.0\GestaoProduto.Domain.pdb
+C:\Users\Ian\source\repos\RevisaoProvaH1_20241130\GestaoProduto.Domain\obj\Debug\net8.0\ref\GestaoProduto.Domain.dll

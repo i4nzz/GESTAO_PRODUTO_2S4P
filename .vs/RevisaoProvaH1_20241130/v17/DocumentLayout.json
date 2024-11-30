@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B7DF4E-6970-40A9-8EAF-A6E0682FD5B1}|GestaoProduto.Services\\GestaoProduto.Services.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.services\\services\\produtoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B7DF4E-6970-40A9-8EAF-A6E0682FD5B1}|GestaoProduto.Services\\GestaoProduto.Services.csproj|solutionrelative:gestaoproduto.services\\services\\produtoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FDFD9-E183-411B-B174-D0FABCC82A2A}|GestaoProduto.Data\\GestaoProduto.Data.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.data\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6FDFD9-E183-411B-B174-D0FABCC82A2A}|GestaoProduto.Data\\GestaoProduto.Data.csproj|solutionrelative:gestaoproduto.data\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.domain\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|solutionrelative:gestaoproduto.domain\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B7DF4E-6970-40A9-8EAF-A6E0682FD5B1}|GestaoProduto.Services\\GestaoProduto.Services.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.services\\interfaces\\iprodutoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B7DF4E-6970-40A9-8EAF-A6E0682FD5B1}|GestaoProduto.Services\\GestaoProduto.Services.csproj|solutionrelative:gestaoproduto.services\\interfaces\\iprodutoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFEE1A6-B749-487F-BA1A-11E3D734F2C8}|GestaoProdutos\\GestaoProdutos.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoprodutos\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFEE1A6-B749-487F-BA1A-11E3D734F2C8}|GestaoProdutos\\GestaoProdutos.csproj|solutionrelative:gestaoprodutos\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|solutionrelative:gestaoproduto.domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B7DF4E-6970-40A9-8EAF-A6E0682FD5B1}|GestaoProduto.Services\\GestaoProduto.Services.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.services\\interfaces\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B7DF4E-6970-40A9-8EAF-A6E0682FD5B1}|GestaoProduto.Services\\GestaoProduto.Services.csproj|solutionrelative:gestaoproduto.services\\interfaces\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.domain\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|solutionrelative:gestaoproduto.domain\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFEE1A6-B749-487F-BA1A-11E3D734F2C8}|GestaoProdutos\\GestaoProdutos.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoprodutos\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFEE1A6-B749-487F-BA1A-11E3D734F2C8}|GestaoProdutos\\GestaoProdutos.csproj|solutionrelative:gestaoprodutos\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.domain\\entidades\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|solutionrelative:gestaoproduto.domain\\entidades\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FDFD9-E183-411B-B174-D0FABCC82A2A}|GestaoProduto.Data\\GestaoProduto.Data.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6FDFD9-E183-411B-B174-D0FABCC82A2A}|GestaoProduto.Data\\GestaoProduto.Data.csproj|solutionrelative:gestaoproduto.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFEE1A6-B749-487F-BA1A-11E3D734F2C8}|GestaoProdutos\\GestaoProdutos.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFEE1A6-B749-487F-BA1A-11E3D734F2C8}|GestaoProdutos\\GestaoProdutos.csproj|solutionrelative:gestaoprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFEE1A6-B749-487F-BA1A-11E3D734F2C8}|GestaoProdutos\\GestaoProdutos.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDFEE1A6-B749-487F-BA1A-11E3D734F2C8}|GestaoProdutos\\GestaoProdutos.csproj|solutionrelative:gestaoprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FDFD9-E183-411B-B174-D0FABCC82A2A}|GestaoProduto.Data\\GestaoProduto.Data.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.data\\gestaoproduto.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC6FDFD9-E183-411B-B174-D0FABCC82A2A}|GestaoProduto.Data\\GestaoProduto.Data.csproj|solutionrelative:gestaoproduto.data\\gestaoproduto.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|c:\\users\\ian\\source\\repos\\revisaoprovah1_20241130\\gestaoproduto.domain\\gestaoproduto.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4E9E256-DE32-4F21-84D3-CA273B3ACC19}|GestaoProduto.Domain\\GestaoProduto.Domain.csproj|solutionrelative:gestaoproduto.domain\\gestaoproduto.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProdutos\\appsettings.json",
+              "RelativeDocumentMoniker": "GestaoProdutos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProdutos\\appsettings.json",
+              "RelativeToolTip": "GestaoProdutos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T18:30:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoProdutos\\Program.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProdutos\\Program.cs",
+              "RelativeToolTip": "GestaoProdutos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:52:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProdutos\\DTO\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "GestaoProdutos\\DTO\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProdutos\\DTO\\ProdutoDTO.cs",
+              "RelativeToolTip": "GestaoProdutos\\DTO\\ProdutoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:02:38.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GestaoProduto.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Data\\GestaoProduto.Data.csproj",
+              "RelativeDocumentMoniker": "GestaoProduto.Data\\GestaoProduto.Data.csproj",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Data\\GestaoProduto.Data.csproj",
+              "RelativeToolTip": "GestaoProduto.Data\\GestaoProduto.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T14:17:59.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Data\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Data\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Data\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "GestaoProduto.Data\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:17:48.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Data\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Data\\Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Data\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "GestaoProduto.Data\\Repository\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:14:34.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Services\\Interfaces\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Services\\Interfaces\\IServiceBase.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Services\\Interfaces\\IServiceBase.cs",
+              "RelativeToolTip": "GestaoProduto.Services\\Interfaces\\IServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:07:40.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Services\\Interfaces\\IProdutoServices.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Services\\Interfaces\\IProdutoServices.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Services\\Interfaces\\IProdutoServices.cs",
+              "RelativeToolTip": "GestaoProduto.Services\\Interfaces\\IProdutoServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:07:14.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Services\\Services\\ProdutoServices.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Services\\Services\\ProdutoServices.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Services\\Services\\ProdutoServices.cs",
+              "RelativeToolTip": "GestaoProduto.Services\\Services\\ProdutoServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:05:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Domain\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "GestaoProduto.Domain\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:50:12.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Domain\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "GestaoProduto.Domain\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:47:29.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntidadeBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\Entidades\\EntidadeBase.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Domain\\Entidades\\EntidadeBase.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\Entidades\\EntidadeBase.cs",
+              "RelativeToolTip": "GestaoProduto.Domain\\Entidades\\EntidadeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:45:18.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestaoProduto.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\GestaoProduto.Domain.csproj",
+              "RelativeDocumentMoniker": "GestaoProduto.Domain\\GestaoProduto.Domain.csproj",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\GestaoProduto.Domain.csproj",
+              "RelativeToolTip": "GestaoProduto.Domain\\GestaoProduto.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T13:37:13.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "GestaoProduto.Domain\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProduto.Domain\\Entidades\\Produto.cs",
+              "RelativeToolTip": "GestaoProduto.Domain\\Entidades\\Produto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:37:04.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProdutos\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "GestaoProdutos\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\RevisaoProvaH1_20241130\\GestaoProdutos\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "GestaoProdutos\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:32:03.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
